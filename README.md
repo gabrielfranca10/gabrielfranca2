@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Gabriel França
 
+![Foto de perfil](![IMG_8730](https://github.com/user-attachments/assets/49c7dc87-0983-41aa-8e90-8420564ff3ff)
+)
 
 ## 🧑‍💻 Sobre mim
 Estudante de **Ciência da Computação** no 1º período da **Cesar School**. Apaixonado por tecnologia, programação e aprendizado contínuo. Atualmente, estou em busca de **oportunidades de estágio** para crescer profissionalmente e contribuir com soluções inovadoras.
