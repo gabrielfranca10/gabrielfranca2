@@ -30,7 +30,7 @@ Estudante de **Ciência da Computação** no 1º período da **Cesar School**. A
 ---
 
 ### 🚀 Projetos Destacados
-- [Projeto Gerenciamento de treinos](https://github.com/seu-username/projeto1)  
+- [Projeto Gerenciamento de treinos](https://github.com/gabrielfranca10/Trabalho_crud/blob/main/Trabalho_crud.py)  
 
 ---
 
